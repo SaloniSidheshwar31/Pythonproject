@@ -147,8 +147,8 @@ Contributions are welcome! Please feel free to submit a pull request or report i
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **Email**: [your_email@example.com](mailto:p39salonisidheshwar@gmail.com)
-- **GitHub**: [YourUsername](https://github.com/SaloniSidheshwar31)
+- **Email**: [p39salonisidheshwar@gmail.com](mailto:p39salonisidheshwar@gmail.com)
+- **GitHub**: [SaloniSidheshwar31](https://github.com/SaloniSidheshwar31)
 
 Enjoy building and enhancing this project! 🚀
 
